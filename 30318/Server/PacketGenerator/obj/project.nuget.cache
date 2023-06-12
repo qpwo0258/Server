@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "FjZJ/Q92ZfrRh1sYATDWf6tnz5ULUoeeFVTv+odHoql62cskGZiTN9xTKQi6f9TqJwuTT+fKundQGDvalbYsaQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\OneDrive\\문서\\Server\\30318\\Server\\PacketGenerator\\PacketGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\google.protobuf\\3.12.3\\google.protobuf.3.12.3.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.memory\\4.5.2\\system.memory.4.5.2.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.7.1\\system.runtime.compilerservices.unsafe.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
